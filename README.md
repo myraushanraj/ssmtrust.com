@@ -1,0 +1,2 @@
+# ssmtrust.com
+initial site
